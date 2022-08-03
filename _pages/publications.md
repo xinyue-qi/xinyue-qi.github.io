@@ -30,3 +30,5 @@ Wang, Yucai\*, Shouhao Zhou\*, **Xinyue Qi**, Fang Yang, Matthew J. Maurer, Thom
 **Qi, Xinyue**, Shouhao Zhou, and Martyn Plummer. **On Bayesian modeling of censored data in JAGS**. *BMC bioinformatics* 23, no. 1 (2022): 1-13. [[link]](https://doi.org/10.1186/s12859-021-04496-8)
 
 **Qi, Xinyue**, Shouhao Zhou, Yucai Wang, Christine B. Peterson. **Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data**. *Research Synthesis Methods, accepted* (2022+)
+
+\* *indicates co-first authorship*
