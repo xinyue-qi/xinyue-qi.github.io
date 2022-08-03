@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications 
 
-Wang, Yucai\*, Shouhao Zhou\*, Fang Yang\*, **Xinyue Qi**, Xin Wang, Xiaoxiang Guan, Chan Shen et al. **Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta-analysis**. *JAMA oncology* 5, no. 7 (2019): 1008-1019. [[link]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2731143)
+Wang, Yucai\*, Shouhao Zhou\*, Fang Yang\*, **Xinyue Qi**, Xin Wang, Xiaoxiang Guan, Chan Shen et al. [**Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta-analysis**](https://jamanetwork.com/journals/jamaoncology/fullarticle/2731143). *JAMA oncology* 5, no. 7 (2019): 1008-1019.
 
 Short, Nicholas J.\*, Shouhao Zhou\*, Chenqi Fu, Donald A. Berry, Roland B. Walter, Sylvie D. Freeman, Christopher S. Hourigan,  Xuelin Huang, Graciela Nogueras Gonzalez, Hyunsoo Hwang, **Xinyue Qi**, Hagop Kantarjian, Farhad Ravandi. **Association of measurable residual disease with survival outcomes in patients with acute myeloid leukemia: a systematic review and meta-analysis**. *JAMA oncology* 6, no. 12 (2020): 1890-1899. [[link]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2771199)
 
