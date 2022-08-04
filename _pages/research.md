@@ -27,6 +27,6 @@ Y Wang\*, S Zhou\*, **X Qi**, F Yang, MJ Maurer, TM Habermann, TE Witzig, ML Wan
 **X Qi**, S Zhou, and M Plummer. [**On Bayesian modeling of censored data in JAGS**](https://doi.org/10.1186/s12859-021-04496-8). ***BMC bioinformatics*** 23, no. 1 (2022): 1-13.
 
 
-**X Qi**, S Zhou, Y Wang, CB Peterson. "Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data". ***Research Synthesis Methods, accepted*** (2022+)
+**X Qi**, S Zhou, Y Wang, CB Peterson. "Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data". ***Research Synthesis Methods***, *accepted* (2022+)
 
 \* *indicates co-first authorship*
