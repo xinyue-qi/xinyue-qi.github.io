@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Introduction"
 excerpt: "About Xinyue Qi"
 author_profile: true
 redirect_from: 
