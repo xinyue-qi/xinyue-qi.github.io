@@ -9,7 +9,7 @@ I am passionate about developing effective statistical solutions for applied res
 
 ## Publications 
 
-Y Wang\*, S Zhou\*, F Yang\*, **X Qi**, X Wang, X Guan, C Shen *et al*. [**Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta-analysis**](https://jamanetwork.com/journals/jamaoncology/fullarticle/2731143). ***JAMA oncology*** 5, no. 7 (2019): 1008-1019.
+Y Wang\*, S Zhou\*, F Yang\*, **X Qi**, X Wang, X Guan, C Shen, N Duma, JV Aguilera, A Chintakuntlawar, KA Price, JR Molina, LC Pagliaro, TR Halfdanarson, A Grothey, SN Markovic, GS Nowakowski, SM Ansell, ML Wang. [**Treatment-related adverse events of PD-1 and PD-L1 inhibitors in clinical trials: a systematic review and meta-analysis**](https://jamanetwork.com/journals/jamaoncology/fullarticle/2731143). ***JAMA oncology*** 5, no. 7 (2019): 1008-1019.
 
 
 NJ Short\*, S Zhou\*, C Fu, DA Berry, RB Walter, SD Freeman, CS Hourigan, X Huang, GN Gonzalez, H Hwang, **X Qi**, H Kantarjian, F Ravandi. [**Association of measurable residual disease with survival outcomes in patients with acute myeloid leukemia: a systematic review and meta-analysis**](https://jamanetwork.com/journals/jamaoncology/fullarticle/2771199). ***JAMA oncology*** 6, no. 12 (2020): 1890-1899.
