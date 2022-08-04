@@ -5,7 +5,7 @@ permalink: /presentation/
 author_profile: true
 ---
 
-## Talks
+## Conference talks
 
 **Qi X**, Zhou S, Peterson CB. **Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data**. *ENAR International Biometric Society Spring Meeting*; March 29, 2022; Houston, TX.
 
