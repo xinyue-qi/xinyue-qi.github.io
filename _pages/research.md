@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am passionate about developing effective statistical solutions for applied research questions.
+She is passionate about developing effective statistical solutions for applied research questions.
 
 ## Publications 
 
