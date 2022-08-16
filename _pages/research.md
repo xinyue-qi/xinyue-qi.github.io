@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-She is passionate about developing effective statistical solutions for applied research questions.
+She is passionate about developing effective statistical solutions for applied research questions. Please see the [Google Scholar page]() for a full list of publications. Here are some highlights of her recent research work.
 
 ## Publications 
 
@@ -27,6 +27,6 @@ Y Wang\*, S Zhou\*, **X Qi**, F Yang, MJ Maurer, TM Habermann, TE Witzig, ML Wan
 **X Qi**, S Zhou, and M Plummer. [**On Bayesian modeling of censored data in JAGS**](https://doi.org/10.1186/s12859-021-04496-8). ***BMC bioinformatics*** 23, no. 1 (2022): 1-13.
 
 
-**X Qi**, S Zhou, Y Wang, CB Peterson. [**Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data**]( https://doi.org/10.1002/jrsm.1597). ***Research Synthesis Methods***, *accepted* (2022+)
+**X Qi**, S Zhou, Y Wang, CB Peterson. [**Bayesian sparse modeling to identify high-risk subgroups in meta-analysis of safety data**]( https://doi.org/10.1002/jrsm.1597). ***Research synthesis methods***, *accepted* (2022+)
 
 \* *indicates co-first authorship*
