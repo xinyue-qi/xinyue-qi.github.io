@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-She is passionate about developing effective statistical solutions for applied research questions. Please see the [Google Scholar page]() for a full list of publications. Here are some highlights of her recent research work.
+She is passionate about developing effective statistical solutions for applied research questions. Please see the [Google Scholar page](https://scholar.google.com/citations?user=oauWi5EAAAAJ&hl=en&oi=ao) for a full list of publications. Here are some highlights of her recent research work.
 
 ## Publications 
 
